@@ -1,0 +1,19 @@
+{
+    "timestamp": 1709124341.26745,
+    "hostname": "Atlanta",
+    "version": "1.0.6",
+    "machines": [
+        {
+            "ip": "192.168.52.138",
+            "status": "up",
+            "latency": "37.5 ms",
+            "open_ports": []
+        },
+        {
+            "ip": "192.168.52.2",
+            "status": "up",
+            "latency": "0.123 ms",
+            "open_ports": []
+        }
+    ]
+}

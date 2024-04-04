@@ -1,0 +1,46 @@
+@import "../../styles/variables.scss";
+@import "../../styles/responsive.scss";
+
+.menu {
+  .item {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+
+    .title {
+      font-size: 12px;
+      font-weight: 600;
+      color: white;
+      text-transform: uppercase;
+      padding: 10px;
+      border-radius: 5px;
+
+      &:hover {
+        background-color: $soft-bg;
+      }
+      @include lg {
+        display: none;
+      }
+    }
+
+    .listMachineTitle {
+      color: $soft-color;
+      font-weight: 300;
+      align-items: center;
+      gap: 8px;
+      padding: 10px;
+      border-radius: 5px;
+
+      &:hover {
+        background-color: $soft-bg;
+      }
+
+      .listItemTitle {
+        @include lg {
+          display: none;
+        }
+      }
+    }
+  }
+}

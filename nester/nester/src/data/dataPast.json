@@ -1,0 +1,184 @@
+[
+  {
+    "timestamp": 1708532442.3538473,
+    "hostname": "Grabels",
+    "version": "1.0.6",
+    "machines": [
+      {
+        "ip": "10.60.61.57",
+        "status": "up",
+        "latency": "19.0 ms",
+        "open_ports": [143, 80],
+        "machine_id": 1
+      }
+    ],
+    "id": 1
+  },
+  {
+    "timestamp": 1708443203.0096188,
+    "hostname": "Londre",
+    "version": "1.0.1",
+    "machines": [
+      {
+        "ip": "10.60.61.57",
+        "status": "down",
+        "latency": "26.9 ms",
+        "open_ports": [],
+        "machine_id": 1
+      }
+    ],
+    "id": 2
+  },
+  {
+    "timestamp": 1708443532.2787344,
+    "hostname": "Marseille",
+    "version": "1.0.1",
+    "machines": [
+      {
+        "ip": "192.168.163.182",
+        "status": "up",
+        "latency": "6.24 ms",
+        "open_ports": [53, 135, 139, 445, 902, 912],
+        "machine_id": 1
+      },
+      {
+        "ip": "192.168.163.7",
+        "status": "up",
+        "latency": "2.35 ms",
+        "open_ports": [53],
+        "machine_id": 2
+      },
+      {
+        "ip": "192.168.163.83",
+        "status": "up",
+        "latency": "40.0 ms",
+        "open_ports": [],
+        "machine_id": 3
+      },
+      {
+        "ip": "10.60.61.57",
+        "status": "down",
+        "latency": "none",
+        "open_ports": [],
+        "machine_id": 4
+      }
+    ],
+    "id": 3
+  },
+  {
+    "timestamp": 1709039114.2718544,
+    "hostname": "Paris",
+    "version": "1.0.6",
+    "machines": [
+      {
+        "ip": "192.168.52.138",
+        "status": "up",
+        "latency": "17.6 ms",
+        "open_ports": [],
+        "machine_id": 1
+      },
+      {
+        "ip": "192.168.52.2",
+        "status": "up",
+        "latency": "0.25 ms",
+        "open_ports": [],
+        "machine_id": 2
+      }
+    ],
+    "id": 4
+  },
+  {
+    "timestamp": 1708520042.2394369,
+    "hostname": "Rome",
+    "version": "1.0.6",
+    "machines": [
+      {
+        "ip": "192.168.217.191",
+        "status": "up",
+        "latency": "3.01 ms",
+        "open_ports": [53],
+        "machine_id": 1
+      },
+      {
+        "ip": "192.168.217.83",
+        "status": "up",
+        "latency": "51.6 ms",
+        "open_ports": [],
+        "machine_id": 2
+      }
+    ],
+    "id": 5
+  },
+  {
+    "timestamp": 1708442177.5604308,
+    "hostname": "Tokyo",
+    "version": "1.0.1",
+    "machines": [
+      {
+        "ip": "10.60.61.57",
+        "status": "up",
+        "latency": "20.0 ms",
+        "open_ports": [],
+        "machine_id": 1
+      }
+    ],
+    "id": 6
+  },
+  {
+    "timestamp": 1709026888.6858747,
+    "hostname": "loucxf-Latitude-5590",
+    "version": "1.0.6",
+    "machines": [
+      {
+        "ip": "192.168.1.10",
+        "status": "up",
+        "latency": "14.0 ms",
+        "open_ports": [],
+        "machine_id": 1
+      },
+      {
+        "ip": "192.168.1.202",
+        "status": "up",
+        "latency": "0.278 ms",
+        "open_ports": [],
+        "machine_id": 2
+      },
+      {
+        "ip": "192.168.1.254",
+        "status": "up",
+        "latency": "1.55 ms",
+        "open_ports": [53, 80, 443, 445, 554],
+        "machine_id": 3
+      },
+      {
+        "ip": "192.168.1.7",
+        "status": "up",
+        "latency": "4.01 ms",
+        "open_ports": [80, 443, 631],
+        "machine_id": 4
+      },
+      {
+        "ip": "192.168.181.211",
+        "status": "down",
+        "latency": "none",
+        "open_ports": [],
+        "machine_id": 5
+      },
+      {
+        "ip": "192.168.181.83",
+        "status": "down",
+        "latency": "none",
+        "open_ports": [],
+        "machine_id": 6
+      },
+      {
+        "ip": "192.168.181.182",
+        "status": "down",
+        "latency": "none",
+        "open_ports": [],
+        "machine_id": 7
+      }
+    ],
+    "id": 7
+  }
+]

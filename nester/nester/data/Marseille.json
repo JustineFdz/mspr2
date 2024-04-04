@@ -1,0 +1,31 @@
+{
+  "timestamp": 1708443532.2787344,
+  "hostname": "Marseille",
+  "version": "1.0.1",
+  "machines": [
+    {
+      "ip": "192.168.163.182",
+      "status": "up",
+      "latency": "6.24 ms",
+      "open_ports": [53, 135, 139, 445, 902, 912]
+    },
+    {
+      "ip": "192.168.163.7",
+      "status": "up",
+      "latency": "2.35 ms",
+      "open_ports": [53]
+    },
+    {
+      "ip": "192.168.163.83",
+      "status": "up",
+      "latency": "40.0 ms",
+      "open_ports": []
+    },
+    {
+      "ip": "10.60.61.57",
+      "status": "down",
+      "latency": "none",
+      "open_ports": []
+    }
+  ]
+}

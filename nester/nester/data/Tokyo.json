@@ -1,0 +1,13 @@
+{
+  "timestamp": 1708442177.5604308,
+  "hostname": "Tokyo",
+  "version": "1.0.1",
+  "machines": [
+    {
+      "ip": "10.60.61.57",
+      "status": "up",
+      "latency": "20.0 ms",
+      "open_ports": []
+    }
+  ]
+}

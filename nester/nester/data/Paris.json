@@ -1,0 +1,19 @@
+{
+    "timestamp": 1709124276.3094387,
+    "hostname": "Paris",
+    "version": "1.0.6",
+    "machines": [
+        {
+            "ip": "192.168.52.138",
+            "status": "up",
+            "latency": "36.1 ms",
+            "open_ports": []
+        },
+        {
+            "ip": "192.168.52.2",
+            "status": "up",
+            "latency": "0.196 ms",
+            "open_ports": []
+        }
+    ]
+}

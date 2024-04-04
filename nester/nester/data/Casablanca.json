@@ -1,0 +1,19 @@
+{
+    "timestamp": 1709119390.5814822,
+    "hostname": "Casablanca",
+    "version": "1.0.6",
+    "machines": [
+        {
+            "ip": "192.168.52.138",
+            "status": "up",
+            "latency": "65.4 ms",
+            "open_ports": []
+        },
+        {
+            "ip": "192.168.52.2",
+            "status": "up",
+            "latency": "0.116 ms",
+            "open_ports": []
+        }
+    ]
+}

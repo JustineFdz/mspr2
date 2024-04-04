@@ -1,0 +1,21 @@
+{
+    "timestamp": 1708520042.2394369,
+    "hostname": "Rome",
+    "version": "1.0.6",
+    "machines": [
+        {
+            "ip": "192.168.217.191",
+            "status": "up",
+            "latency": "3.01 ms",
+            "open_ports": [
+                53
+            ]
+        },
+        {
+            "ip": "192.168.217.83",
+            "status": "up",
+            "latency": "51.6 ms",
+            "open_ports": []
+        }
+    ]
+}

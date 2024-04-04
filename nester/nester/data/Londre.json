@@ -1,0 +1,13 @@
+{
+  "timestamp": 1708443203.0096188,
+  "hostname": "Londre",
+  "version": "1.0.1",
+  "machines": [
+    {
+      "ip": "10.60.61.57",
+      "status": "up",
+      "latency": "26.9 ms",
+      "open_ports": []
+    }
+  ]
+}

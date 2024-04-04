@@ -1,0 +1,13 @@
+{
+  "timestamp": 1708532442.3538473,
+  "hostname": "Grabels",
+  "version": "1.0.6",
+  "machines": [
+    {
+      "ip": "10.60.61.57",
+      "status": "up",
+      "latency": "19.0 ms",
+      "open_ports": []
+    }
+  ]
+}
